@@ -25,7 +25,7 @@
 	width: 5px;
 	height: 100%;
 	top: 0;
-	left: 165px;
+	left: 179px;
 	background: black;
 }
 
@@ -113,7 +113,7 @@
 	width: 24px;
 	height: 24px;
 	left: 158px;
-	top: 36px;
+	top: 62px;
 	position: absolute;
 	display: block;
 }
@@ -422,7 +422,3 @@
 		max-height: 300px; 
 	}
 }
-
-
-
-
